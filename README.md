@@ -107,8 +107,7 @@ Sales-Data-Analysis_Agriculture/
 ├── assets/              # Charts, graphs, screenshots
 │   ├── [*.png]          # Visual assets from .ipynb, .pbix, .pptx
 ├── data/                # Raw and processed CSV files
-├── notebooks/           # Jupyter notebooks
-│   └── sales_analysis.ipynb
+├── sales_analysis.ipynb
 ├── Sales_Report.pbix       # Power BI file
 ├── Executive_Summary.pptx    # Final presentation
 ├── requirements.txt     # Python dependency list
@@ -147,7 +146,7 @@ Sales-Data-Analysis_Agriculture/
 1. Place your sales dataset in the `data/` directory.
 2. Open the Jupyter notebook interactively:
     ```bash
-    jupyter notebook notebooks/sales_analysis.ipynb
+    jupyter notebook sales_analysis.ipynb
     ```
 3. Explore the Power BI file:
     - Open `Sales_Report.pbix` with Power BI Desktop to explore the data interactively.
