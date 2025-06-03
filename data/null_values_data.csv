@@ -1,0 +1,10 @@
+,OrderID,Product,Category,Quantity,UnitPrice (GHS),OrderDate,CustomerRegion,PurchasedAgain
+5,ORD0006,NPK,Fertilizer,2.0,,2023-10-21,Eastern,No
+70,ORD0071,,Seed,3.0,82.86,2023-05-28,,No
+75,ORD0076,NPK,Fertilizer,,69.4,2023-12-12,Ashanti,Yes
+104,ORD0105,Maize,Seed,42.0,94.25,2023-02-27,,No
+130,ORD0131,Ammonia Sulphate,Fertilizer,,26.46,2023-08-25,Northern,No
+255,ORD0256,Asaase Wura,Weedicide,23.0,57.81,2023-12-31,,Yes
+262,ORD0263,Ammonia Sulphate,Fertilizer,,,2023-05-06,Western,Yes
+271,ORD0272,Asaase Wura,Weedicide,45.0,39.73,,Western,Yes
+294,ORD0295,,Seed,35.0,41.4,2023-11-01,Western,Yes
