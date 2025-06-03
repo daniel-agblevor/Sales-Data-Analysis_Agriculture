@@ -30,9 +30,6 @@ This project analyzes agricultural sales data to provide actionable insights for
 
 ## Data Description
 
-**Source:**  
-[Specify the data source here, e.g., internal company records, public datasets, etc.]
-
 **Structure:**  
 The dataset includes the following columns:
 
@@ -87,7 +84,7 @@ The `.pbix` file includes interactive visuals built for stakeholder reporting. K
 - KPI Cards showing total sales, units sold, and product share.
 - Visual Slicers to explore temporal trends and category insights.
 
-![Power BI KPI Dashboard](assets/PowerBI_Dashboard.png)
+![Power BI KPI Dashboard](assets/Sales_Report.png)
 
 ---
 
@@ -99,7 +96,7 @@ The `.pptx` file summarizes findings and communicates key business insights to a
 - Key findings and visual snapshots.
 - Business implications and recommended actions.
 
-![Executive Summary Slide](assets/Executive_Summary_Slide.png)
+![Executive Summary Slide](assets/Executive_Summary.png)
 
 ---
 
@@ -112,11 +109,8 @@ Sales-Data-Analysis_Agriculture/
 ├── data/                # Raw and processed CSV files
 ├── notebooks/           # Jupyter notebooks
 │   └── sales_analysis.ipynb
-├── scripts/             # Python scripts for data processing and analysis
-│   ├── analyze_sales.py
-│   └── preprocess_data.py
-├── Dashboard.pbix       # Power BI file
-├── Presentation.pptx    # Final presentation
+├── Sales_Report.pbix       # Power BI file
+├── Executive_Summary.pptx    # Final presentation
 ├── requirements.txt     # Python dependency list
 └── README.md            # Project documentation
 ```
@@ -156,9 +150,9 @@ Sales-Data-Analysis_Agriculture/
     jupyter notebook notebooks/sales_analysis.ipynb
     ```
 3. Explore the Power BI file:
-    - Open `Dashboard.pbix` with Power BI Desktop to explore the data interactively.
+    - Open `Sales_Report.pbix` with Power BI Desktop to explore the data interactively.
 4. View the presentation:
-    - Open `Presentation.pptx` in any PowerPoint-compatible viewer.
+    - Open `Executive_Summary.pptx` in any PowerPoint-compatible viewer.
 
 ---
 
@@ -189,7 +183,7 @@ Contributions are highly valued! To contribute:
 - **Jupyter Notebook**
 - **Power BI**
 - **MS PowerPoint**
-
+  
 ---
 
 ## Acknowledgments
